@@ -3,3 +3,4 @@ __pycache__
 contrib/
 .ipynb_checkpoints
 .venv
+*.sqlite3
