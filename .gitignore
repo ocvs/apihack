@@ -4,3 +4,4 @@ contrib/
 .ipynb_checkpoints
 .venv
 *.sqlite3
+tabula
